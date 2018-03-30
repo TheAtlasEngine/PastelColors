@@ -14,3 +14,5 @@ let g:colors_name="PastelColors"
 hi Comment ctermfg=250
 " hi Constant
 hi String ctermfg=108
+hi Character ctermfg=108
+hi Number ctermfg=139
