@@ -11,4 +11,9 @@ endif
 
 let g:colors_name="PastelColors"
 
-hi Comment ctermfg=250 cterm=italic
+hi Comment ctermfg=246
+hi String ctermfg=208
+hi Character ctermfg=208
+hi Number ctermfg=108
+hi Float ctermfg=108
+hi Boolean ctermfg=108
