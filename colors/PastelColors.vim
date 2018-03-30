@@ -21,3 +21,4 @@ hi Type ctermfg=210
 hi Conditional ctermfg=220
 hi Repeat ctermfg=152
 hi Statement ctermfg=75
+hi Function ctermfg=168
