@@ -17,3 +17,4 @@ hi Character ctermfg=208
 hi Number ctermfg=108
 hi Float ctermfg=108
 hi Boolean ctermfg=108
+hi Type ctermfg=124
