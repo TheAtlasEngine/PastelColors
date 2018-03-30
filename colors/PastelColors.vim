@@ -20,3 +20,5 @@ hi Boolean ctermfg=180
 hi Float ctermfg=141
 hi Identifier ctermfg=204
 hi Function ctermfg=75
+hi Statement ctermfg=166
+hi Conditional ctermfg=216
