@@ -16,4 +16,6 @@ hi Comment ctermfg=250
 hi String ctermfg=108
 hi Character ctermfg=108
 hi Number ctermfg=141
-
+hi Boolean ctermfg=180
+hi Float ctermfg=141
+hi Identifier ctermfg=202
