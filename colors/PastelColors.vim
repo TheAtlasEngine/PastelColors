@@ -1,4 +1,4 @@
-"Vim color file
+" Vim color file
 " Author: Kosuke Nishimura
 "
 
@@ -11,4 +11,4 @@ endif
 
 let g:colors_name="PastelColors"
 
-hi Comment ctermfg=128
+hi Comment ctermfg=255
