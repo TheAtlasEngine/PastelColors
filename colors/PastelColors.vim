@@ -18,3 +18,5 @@ hi Number ctermfg=108
 hi Float ctermfg=108
 hi Boolean ctermfg=108
 hi Type ctermfg=210
+hi Conditional ctermfg=159
+hi Repeat ctermfg=152
