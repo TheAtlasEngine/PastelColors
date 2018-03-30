@@ -22,3 +22,4 @@ hi Conditional ctermfg=220
 hi Repeat ctermfg=152
 hi Statement ctermfg=75
 hi Function ctermfg=168
+hi Exception ctermfg=220
