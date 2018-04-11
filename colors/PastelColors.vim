@@ -11,7 +11,7 @@ endif
 
 let g:colors_name="PastelColors"
 
-hi Normal ctermbg=235
+hi Normal ctermbg=233
 hi Comment ctermfg=246
 hi String ctermfg=208
 hi Character ctermfg=208
